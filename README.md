@@ -8,8 +8,8 @@
 
 
 - 👋 Hi, I’m @Jyo561Python
-- 👀 I’m interested in Kivy
-- 🌱 I’m currently learning Beeware
+- 👀 I’m interested in Kivy,Flet
+- 🌱 I’m currently learning Django,FastApi,Vyper
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
